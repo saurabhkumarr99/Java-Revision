@@ -1,2 +1,5 @@
-package K_Soloutions;public class Test1 {
+package K_Soloutions;
+
+public class Test1 {
+
 }
