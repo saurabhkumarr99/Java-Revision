@@ -8,7 +8,7 @@ public class Array_1D_methods {
     /* ************************************************************************************************************** */
         //Create
 
-        //By initilization
+        //By initialization
         int[] arr1 ={1,2,3,4,5};
         System.out.println("Array from initialization :"+ Arrays.toString(arr1));
 

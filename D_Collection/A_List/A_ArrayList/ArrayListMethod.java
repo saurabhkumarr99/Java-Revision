@@ -1,7 +1,7 @@
 package D_Collection.A_List.A_ArrayList;
 import java.util.*;
 
-public class ArrayListMethod {
+public class  ArrayListMethod {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<String> myList1 = new ArrayList<>();

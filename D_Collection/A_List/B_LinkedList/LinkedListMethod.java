@@ -135,7 +135,7 @@ public class LinkedListMethod {
 
         /* ********************************************************************************************************** */
         System.out.println("*****************************************************************************************");
-        //Maxc and min
+        //Max and min
 
         //Method1-
         System.out.println("Max of list is : "+Collections.max(myList1));

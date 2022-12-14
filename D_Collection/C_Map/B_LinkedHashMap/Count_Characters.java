@@ -119,17 +119,17 @@ public class Count_Characters {
                     /* ********************************************************************************************** */
                     //Max and Min in value
                     int max_v =0;
-                    int min_v =0;
+                    int min_v =100;
                     for(int ele :myMap1.keySet()){
                         if(max_v<myMap1.get(ele)){
                             max_v =myMap1.get(ele);
                         }
-                        if(max_v>myMap1.get(ele)){
+                        if(min_v>myMap1.get(ele)){
                             min_v =myMap1.get(ele);
                         }
                     }
-                    System.out.println("Max key in myMap is : "+max_v);
-                    System.out.println("Min key in myMap is : "+min_v);
+                    System.out.println("Max value in myMap is : "+max_v);
+                    System.out.println("Min value in myMap is : "+min_v);
                     break;
 
                 case 9:
